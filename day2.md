@@ -20,15 +20,13 @@ I'm still a bit sick which as well, while irritiating makes me feel excited that
 
 My goal for this notebook is to write at least for 5 minutes a day in it. I'll set a timer and get going. It's a resolution I made anyway (to consistently reflect everyday) so it's really just convinient that it is required.
 
-Here's a link btw:
-[Tyler's Portfolio](tylerfishbone.com "It's dope")
+Here's a link btw (to test out how links work in md):
 
-And an image
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+[Tyler's Portfolio](http://tylerfishbone.com "It's dope")
 
 Again today I felt a bit bored and listless during the lecture (like what am I doing with my life) and then when i started coding the time started flying by : ) 
 Not a rip on Allie either, I think when I'm sitting there in class I just start thinking about what it's going to be like sitting at a computer all day. But then when I start coding **aka actually sitting at a computer all day** I start to enjoy myself a lot. Which it rad.
 
 Ok i know I'm way past my 5 minutes but it's the first day so w/e.
 
-![](https://media.giphy.com/media/3ohzdQYqPZHHBBBYu4/giphy.gif)
+![alt text](https://media.giphy.com/media/3ohzdQYqPZHHBBBYu4/giphy.gif "Joey Bada$$ making sparkles say truly don't care")
